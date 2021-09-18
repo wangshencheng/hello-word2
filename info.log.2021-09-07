@@ -1,0 +1,871 @@
+[--INFO --]   2021.09.07   15:17:51.693   org.springframework.boot.logging.DeferredLog  255  logTo  -   Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[--INFO --]   2021.09.07   15:17:51.703   org.springframework.boot.logging.DeferredLog  255  logTo  -   For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[--INFO --]   2021.09.07   15:17:53.562   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   15:17:53.592   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   15:17:53.594   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   15:17:53.595   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   15:17:53.721   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   15:17:53.723   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 2017 ms
+[--INFO --]   2021.09.07   15:17:54.648   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   15:17:54.656   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   15:17:54.686   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   15:17:54.703   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   15:23:36.527   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   15:23:36.530   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   15:23:36.531   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   15:23:36.532   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   15:23:36.558   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   15:23:36.559   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 459 ms
+[--INFO --]   2021.09.07   15:23:36.932   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   15:23:36.943   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   15:23:36.968   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   15:23:36.972   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   15:23:36.994   org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener  63  onApplicationEvent  -   Condition evaluation unchanged
+[--INFO --]   2021.09.07   15:44:41.538   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   15:44:41.539   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   15:44:41.540   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   15:44:41.540   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   15:44:41.554   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   15:44:41.554   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 415 ms
+[--INFO --]   2021.09.07   15:44:41.773   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   15:44:41.781   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   15:44:41.797   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   15:44:41.801   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   15:44:41.818   org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener  63  onApplicationEvent  -   Condition evaluation unchanged
+[--INFO --]   2021.09.07   15:44:53.155   org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin  159  shutdown  -   Application shutdown requested.
+[--INFO --]   2021.09.07   15:45:16.776   org.springframework.boot.logging.DeferredLog  255  logTo  -   Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[--INFO --]   2021.09.07   15:45:16.782   org.springframework.boot.logging.DeferredLog  255  logTo  -   For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[--INFO --]   2021.09.07   15:45:18.187   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   15:45:18.221   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   15:45:18.223   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   15:45:18.224   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   15:45:18.325   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   15:45:18.326   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 1542 ms
+[--INFO --]   2021.09.07   15:45:19.140   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   15:45:19.147   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   15:45:19.175   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   15:45:19.193   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   15:52:03.780   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   15:52:03.782   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   15:52:03.783   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   15:52:03.783   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   15:52:03.811   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   15:52:03.813   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 454 ms
+[--INFO --]   2021.09.07   15:52:04.087   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   15:52:04.096   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   15:52:04.126   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   15:52:04.129   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   15:52:04.152   org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener  63  onApplicationEvent  -   Condition evaluation unchanged
+[--INFO --]   2021.09.07   15:52:21.441   org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin  159  shutdown  -   Application shutdown requested.
+[--INFO --]   2021.09.07   15:52:44.213   org.springframework.boot.logging.DeferredLog  255  logTo  -   Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[--INFO --]   2021.09.07   15:52:44.220   org.springframework.boot.logging.DeferredLog  255  logTo  -   For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[--INFO --]   2021.09.07   15:52:45.621   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   15:52:45.645   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   15:52:45.646   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   15:52:45.646   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   15:52:45.761   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   15:52:45.762   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 1540 ms
+[--INFO --]   2021.09.07   15:52:46.531   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   15:52:46.537   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   15:52:46.565   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   15:52:46.581   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   15:59:59.096   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   15:59:59.098   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   15:59:59.099   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   15:59:59.100   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   15:59:59.115   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   15:59:59.116   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 742 ms
+[--INFO --]   2021.09.07   15:59:59.311   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   15:59:59.316   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   15:59:59.336   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   15:59:59.338   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   15:59:59.352   org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener  63  onApplicationEvent  -   Condition evaluation unchanged
+[--INFO --]   2021.09.07   16:00:33.256   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   16:00:33.258   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   16:00:33.258   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   16:00:33.258   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   16:00:33.272   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   16:00:33.273   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 381 ms
+[--INFO --]   2021.09.07   16:00:33.454   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   16:00:33.457   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   16:00:33.470   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   16:00:33.471   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   16:00:33.483   org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener  63  onApplicationEvent  -   Condition evaluation unchanged
+[--INFO --]   2021.09.07   16:01:11.710   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring DispatcherServlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   16:01:11.711   org.springframework.web.servlet.FrameworkServlet  525  initServletBean  -   Initializing Servlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   16:01:11.715   org.springframework.web.servlet.FrameworkServlet  547  initServletBean  -   Completed initialization in 3 ms
+[--ERROR--]   2021.09.07   16:01:11.820   org.apache.juli.logging.DirectJDKLog  175  log  -   Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Handler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert ";" to complete BlockStatements
+] with root cause java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert ";" to complete BlockStatements
+
+	at com.example.demo2.GreetingController.greeting(GreetingController.java:20) ~[classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_261]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_261]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_261]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_261]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1064) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655) ~[tomcat-embed-core-9.0.52.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764) ~[tomcat-embed-core-9.0.52.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96) ~[spring-boot-actuator-2.5.4.jar:2.5.4]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1726) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_261]
+
+[--INFO --]   2021.09.07   16:01:44.229   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   16:01:44.231   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   16:01:44.232   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   16:01:44.233   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   16:01:44.256   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   16:01:44.257   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 468 ms
+[--INFO --]   2021.09.07   16:01:44.499   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   16:01:44.502   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   16:01:44.516   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   16:01:44.518   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   16:01:44.532   org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener  63  onApplicationEvent  -   Condition evaluation unchanged
+[--INFO --]   2021.09.07   16:01:50.266   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring DispatcherServlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   16:01:50.266   org.springframework.web.servlet.FrameworkServlet  525  initServletBean  -   Initializing Servlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   16:01:50.269   org.springframework.web.servlet.FrameworkServlet  547  initServletBean  -   Completed initialization in 3 ms
+[--INFO --]   2021.09.07   16:13:44.465   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   16:13:44.467   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   16:13:44.467   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   16:13:44.468   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   16:13:44.485   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   16:13:44.486   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 410 ms
+[--INFO --]   2021.09.07   16:13:44.641   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   16:13:44.645   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   16:13:44.655   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   16:13:44.657   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   16:13:44.668   org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener  63  onApplicationEvent  -   Condition evaluation unchanged
+[--INFO --]   2021.09.07   16:13:52.987   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring DispatcherServlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   16:13:52.988   org.springframework.web.servlet.FrameworkServlet  525  initServletBean  -   Initializing Servlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   16:13:52.991   org.springframework.web.servlet.FrameworkServlet  547  initServletBean  -   Completed initialization in 3 ms
+[--INFO --]   2021.09.07   16:15:36.490   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   16:15:36.492   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   16:15:36.493   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   16:15:36.493   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   16:15:36.520   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   16:15:36.521   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 722 ms
+[--INFO --]   2021.09.07   16:15:36.810   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   16:15:36.816   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   16:15:36.833   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   16:15:36.836   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   16:15:36.851   org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener  63  onApplicationEvent  -   Condition evaluation unchanged
+[--INFO --]   2021.09.07   16:15:48.969   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring DispatcherServlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   16:15:48.970   org.springframework.web.servlet.FrameworkServlet  525  initServletBean  -   Initializing Servlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   16:15:48.973   org.springframework.web.servlet.FrameworkServlet  547  initServletBean  -   Completed initialization in 3 ms
+[--INFO --]   2021.09.07   16:15:48.976   com.example.demo2.GreetingController  20  greeting  -   欢迎啊啊啊啊啊======
+[--INFO --]   2021.09.07   16:16:14.249   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   16:16:14.250   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   16:16:14.251   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   16:16:14.251   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   16:16:14.270   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   16:16:14.271   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 561 ms
+[--INFO --]   2021.09.07   16:16:14.510   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   16:16:14.514   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   16:16:14.527   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   16:16:14.532   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   16:16:14.550   org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener  63  onApplicationEvent  -   Condition evaluation unchanged
+[--INFO --]   2021.09.07   16:16:21.358   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring DispatcherServlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   16:16:21.358   org.springframework.web.servlet.FrameworkServlet  525  initServletBean  -   Initializing Servlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   16:16:21.361   org.springframework.web.servlet.FrameworkServlet  547  initServletBean  -   Completed initialization in 2 ms
+[--INFO --]   2021.09.07   16:16:21.368   com.example.demo2.GreetingController  20  greeting  -   欢迎啊啊啊啊啊======
+[--INFO --]   2021.09.07   16:16:23.204   com.example.demo2.GreetingController  20  greeting  -   欢迎啊啊啊啊啊======
+[--INFO --]   2021.09.07   16:17:26.918   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   16:17:26.921   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   16:17:26.922   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   16:17:26.923   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   16:17:26.946   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   16:17:26.947   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 527 ms
+[--INFO --]   2021.09.07   16:17:27.261   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   16:17:27.267   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   16:17:27.284   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   16:17:27.287   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   16:17:27.304   org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener  63  onApplicationEvent  -   Condition evaluation unchanged
+[--INFO --]   2021.09.07   16:17:48.404   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring DispatcherServlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   16:17:48.404   org.springframework.web.servlet.FrameworkServlet  525  initServletBean  -   Initializing Servlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   16:17:48.407   org.springframework.web.servlet.FrameworkServlet  547  initServletBean  -   Completed initialization in 2 ms
+[--INFO --]   2021.09.07   16:17:48.412   com.example.demo2.GreetingController  20  greeting  -   欢迎啊啊啊啊啊======
+[--INFO --]   2021.09.07   16:30:54.294   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   16:30:54.296   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   16:30:54.296   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   16:30:54.297   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   16:30:54.311   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   16:30:54.311   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 348 ms
+[--INFO --]   2021.09.07   16:30:54.587   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   16:30:54.596   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   16:30:54.632   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   16:30:54.637   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   16:30:54.665   org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener  63  onApplicationEvent  -   Condition evaluation unchanged
+[--INFO --]   2021.09.07   16:31:00.164   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring DispatcherServlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   16:31:00.165   org.springframework.web.servlet.FrameworkServlet  525  initServletBean  -   Initializing Servlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   16:31:00.168   org.springframework.web.servlet.FrameworkServlet  547  initServletBean  -   Completed initialization in 1 ms
+[--INFO --]   2021.09.07   16:31:00.174   com.example.demo2.GreetingController  20  greeting  -   欢迎啊啊啊啊啊======
+[--INFO --]   2021.09.07   16:59:28.645   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   16:59:28.648   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   16:59:28.649   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   16:59:28.649   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   16:59:28.677   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   16:59:28.677   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 587 ms
+[--INFO --]   2021.09.07   16:59:29.040   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   16:59:29.047   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   16:59:29.074   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   16:59:29.078   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   16:59:29.095   org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener  63  onApplicationEvent  -   Condition evaluation unchanged
+[--INFO --]   2021.09.07   16:59:58.527   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   16:59:58.528   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   16:59:58.529   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   16:59:58.530   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   16:59:58.552   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   16:59:58.553   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 372 ms
+[--INFO --]   2021.09.07   16:59:58.815   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   16:59:58.821   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   16:59:58.838   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   16:59:58.841   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   16:59:58.860   org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener  63  onApplicationEvent  -   Condition evaluation unchanged
+[--INFO --]   2021.09.07   17:00:03.736   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   17:00:03.739   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   17:00:03.740   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   17:00:03.740   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   17:00:03.770   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   17:00:03.771   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 585 ms
+[--INFO --]   2021.09.07   17:00:04.043   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   17:00:04.050   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   17:00:04.068   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   17:00:04.072   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   17:00:04.110   org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener  63  onApplicationEvent  -   Condition evaluation unchanged
+[--INFO --]   2021.09.07   17:01:32.214   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   17:01:32.216   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   17:01:32.217   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   17:01:32.217   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   17:01:32.243   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   17:01:32.243   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 519 ms
+[--INFO --]   2021.09.07   17:01:32.495   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   17:01:32.499   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   17:01:32.512   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   17:01:32.513   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   17:01:32.525   org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener  63  onApplicationEvent  -   Condition evaluation unchanged
+[--INFO --]   2021.09.07   17:02:04.783   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   17:02:04.784   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   17:02:04.784   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   17:02:04.784   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   17:02:04.797   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   17:02:04.797   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 316 ms
+[--INFO --]   2021.09.07   17:02:04.943   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   17:02:04.946   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   17:02:04.957   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   17:02:04.959   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   17:02:04.972   org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener  63  onApplicationEvent  -   Condition evaluation unchanged
+[--INFO --]   2021.09.07   17:02:10.610   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring DispatcherServlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   17:02:10.611   org.springframework.web.servlet.FrameworkServlet  525  initServletBean  -   Initializing Servlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   17:02:10.614   org.springframework.web.servlet.FrameworkServlet  547  initServletBean  -   Completed initialization in 2 ms
+[--INFO --]   2021.09.07   17:02:10.617   com.example.demo2.GreetingController  24  greeting  -   欢迎啊啊啊啊啊======
+[--ERROR--]   2021.09.07   17:02:10.625   org.apache.juli.logging.DirectJDKLog  175  log  -   Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Circular view path [greeting]: would dispatch back to the current handler URL [/greeting] again. Check your ViewResolver setup! (Hint: This may be the result of an unspecified view, due to default view name generation.)] with root cause javax.servlet.ServletException: Circular view path [greeting]: would dispatch back to the current handler URL [/greeting] again. Check your ViewResolver setup! (Hint: This may be the result of an unspecified view, due to default view name generation.)
+	at org.springframework.web.servlet.view.InternalResourceView.prepareForRendering(InternalResourceView.java:210) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:148) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1397) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1142) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1081) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655) ~[tomcat-embed-core-9.0.52.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764) ~[tomcat-embed-core-9.0.52.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96) ~[spring-boot-actuator-2.5.4.jar:2.5.4]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1726) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_261]
+
+[--INFO --]   2021.09.07   17:11:27.435   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   17:11:27.437   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   17:11:27.437   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   17:11:27.438   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   17:11:27.449   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   17:11:27.450   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 368 ms
+[--INFO --]   2021.09.07   17:11:27.620   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   17:11:27.624   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   17:11:27.643   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   17:11:27.645   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   17:11:27.656   org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener  63  onApplicationEvent  -   Condition evaluation unchanged
+[--INFO --]   2021.09.07   17:11:36.367   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   17:11:36.368   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   17:11:36.368   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   17:11:36.369   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   17:11:36.380   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   17:11:36.381   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 444 ms
+[--INFO --]   2021.09.07   17:11:36.676   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   17:11:36.680   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   17:11:36.692   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   17:11:36.694   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   17:11:36.706   org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener  63  onApplicationEvent  -   Condition evaluation unchanged
+[--INFO --]   2021.09.07   17:11:47.464   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring DispatcherServlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   17:11:47.464   org.springframework.web.servlet.FrameworkServlet  525  initServletBean  -   Initializing Servlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   17:11:47.474   org.springframework.web.servlet.FrameworkServlet  547  initServletBean  -   Completed initialization in 10 ms
+[--INFO --]   2021.09.07   17:11:47.477   com.example.demo2.GreetingController  24  greeting  -   欢迎啊啊啊啊啊======
+[--ERROR--]   2021.09.07   17:11:47.480   org.apache.juli.logging.DirectJDKLog  175  log  -   Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Circular view path [greeting]: would dispatch back to the current handler URL [/greeting] again. Check your ViewResolver setup! (Hint: This may be the result of an unspecified view, due to default view name generation.)] with root cause javax.servlet.ServletException: Circular view path [greeting]: would dispatch back to the current handler URL [/greeting] again. Check your ViewResolver setup! (Hint: This may be the result of an unspecified view, due to default view name generation.)
+	at org.springframework.web.servlet.view.InternalResourceView.prepareForRendering(InternalResourceView.java:210) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:148) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1397) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1142) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1081) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655) ~[tomcat-embed-core-9.0.52.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764) ~[tomcat-embed-core-9.0.52.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96) ~[spring-boot-actuator-2.5.4.jar:2.5.4]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1726) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_261]
+
+[--INFO --]   2021.09.07   17:11:48.486   com.example.demo2.GreetingController  24  greeting  -   欢迎啊啊啊啊啊======
+[--ERROR--]   2021.09.07   17:11:48.496   org.apache.juli.logging.DirectJDKLog  175  log  -   Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Circular view path [greeting]: would dispatch back to the current handler URL [/greeting] again. Check your ViewResolver setup! (Hint: This may be the result of an unspecified view, due to default view name generation.)] with root cause javax.servlet.ServletException: Circular view path [greeting]: would dispatch back to the current handler URL [/greeting] again. Check your ViewResolver setup! (Hint: This may be the result of an unspecified view, due to default view name generation.)
+	at org.springframework.web.servlet.view.InternalResourceView.prepareForRendering(InternalResourceView.java:210) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:148) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1397) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1142) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1081) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655) ~[tomcat-embed-core-9.0.52.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764) ~[tomcat-embed-core-9.0.52.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96) ~[spring-boot-actuator-2.5.4.jar:2.5.4]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1726) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_261]
+
+[--INFO --]   2021.09.07   17:13:01.086   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   17:13:01.087   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   17:13:01.089   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   17:13:01.089   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   17:13:01.100   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   17:13:01.101   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 374 ms
+[--INFO --]   2021.09.07   17:13:01.260   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   17:13:01.265   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   17:13:01.277   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   17:13:01.281   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   17:13:01.294   org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener  63  onApplicationEvent  -   Condition evaluation unchanged
+[--INFO --]   2021.09.07   17:13:12.453   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring DispatcherServlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   17:13:12.455   org.springframework.web.servlet.FrameworkServlet  525  initServletBean  -   Initializing Servlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   17:13:12.458   org.springframework.web.servlet.FrameworkServlet  547  initServletBean  -   Completed initialization in 2 ms
+[--INFO --]   2021.09.07   17:13:12.461   com.example.demo2.GreetingController  26  greeting  -   欢迎啊啊啊啊啊======
+[--INFO --]   2021.09.07   17:17:54.101   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   17:17:54.101   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   17:17:54.102   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   17:17:54.102   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   17:17:54.136   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   17:17:54.137   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 380 ms
+[--INFO --]   2021.09.07   17:17:54.322   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   17:17:54.326   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   17:17:54.335   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   17:17:54.337   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   17:17:54.348   org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener  63  onApplicationEvent  -   Condition evaluation unchanged
+[--INFO --]   2021.09.07   17:17:59.274   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring DispatcherServlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   17:17:59.275   org.springframework.web.servlet.FrameworkServlet  525  initServletBean  -   Initializing Servlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   17:17:59.277   org.springframework.web.servlet.FrameworkServlet  547  initServletBean  -   Completed initialization in 2 ms
+[--INFO --]   2021.09.07   17:17:59.285   com.example.demo2.GreetingController  27  greeting  -   欢迎啊啊啊啊啊======
+[--WARN --]   2021.09.07   17:17:59.287   org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver  207  logException  -   Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.demo2.Student] with preset Content-Type 'null']
+[--INFO --]   2021.09.07   17:22:48.788   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   17:22:48.789   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   17:22:48.789   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   17:22:48.789   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   17:22:48.803   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   17:22:48.804   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 370 ms
+[--INFO --]   2021.09.07   17:22:48.973   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   17:22:48.976   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   17:22:48.989   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   17:22:48.991   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   17:22:49.005   org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener  63  onApplicationEvent  -   Condition evaluation unchanged
+[--INFO --]   2021.09.07   17:22:54.540   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring DispatcherServlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   17:22:54.540   org.springframework.web.servlet.FrameworkServlet  525  initServletBean  -   Initializing Servlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   17:22:54.542   org.springframework.web.servlet.FrameworkServlet  547  initServletBean  -   Completed initialization in 2 ms
+[--INFO --]   2021.09.07   17:22:54.549   com.example.demo2.GreetingController  27  greeting  -   欢迎啊啊啊啊啊======
+[--ERROR--]   2021.09.07   17:22:54.661   org.apache.juli.logging.DirectJDKLog  175  log  -   Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.http.converter.HttpMessageConversionException: Could not create JAXBContext for class [class com.example.demo2.Student]: 2 counts of IllegalAnnotationExceptions; nested exception is com.sun.xml.internal.bind.v2.runtime.IllegalAnnotationsException: 2 counts of IllegalAnnotationExceptions
+类的两个属性具有相同名称 "age"
+	this problem is related to the following location:
+		at public int com.example.demo2.Student.getAge()
+		at com.example.demo2.Student
+	this problem is related to the following location:
+		at private int com.example.demo2.Student.age
+		at com.example.demo2.Student
+类的两个属性具有相同名称 "name"
+	this problem is related to the following location:
+		at public java.lang.String com.example.demo2.Student.getName()
+		at com.example.demo2.Student
+	this problem is related to the following location:
+		at private java.lang.String com.example.demo2.Student.name
+		at com.example.demo2.Student
+] with root cause com.sun.xml.internal.bind.v2.runtime.IllegalAnnotationsException: 2 counts of IllegalAnnotationExceptions
+	at com.sun.xml.internal.bind.v2.runtime.IllegalAnnotationsException$Builder.check(IllegalAnnotationsException.java:91) ~[?:1.8.0_261]
+	at com.sun.xml.internal.bind.v2.runtime.JAXBContextImpl.getTypeInfoSet(JAXBContextImpl.java:445) ~[?:1.8.0_261]
+	at com.sun.xml.internal.bind.v2.runtime.JAXBContextImpl.<init>(JAXBContextImpl.java:277) ~[?:1.8.0_261]
+	at com.sun.xml.internal.bind.v2.runtime.JAXBContextImpl.<init>(JAXBContextImpl.java:124) ~[?:1.8.0_261]
+	at com.sun.xml.internal.bind.v2.runtime.JAXBContextImpl$JAXBContextBuilder.build(JAXBContextImpl.java:1123) ~[?:1.8.0_261]
+	at com.sun.xml.internal.bind.v2.ContextFactory.createContext(ContextFactory.java:147) ~[?:1.8.0_261]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_261]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_261]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_261]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_261]
+	at javax.xml.bind.ContextFinder.newInstance(ContextFinder.java:247) ~[?:1.8.0_261]
+	at javax.xml.bind.ContextFinder.newInstance(ContextFinder.java:234) ~[?:1.8.0_261]
+	at javax.xml.bind.ContextFinder.find(ContextFinder.java:462) ~[?:1.8.0_261]
+	at javax.xml.bind.JAXBContext.newInstance(JAXBContext.java:641) ~[?:1.8.0_261]
+	at javax.xml.bind.JAXBContext.newInstance(JAXBContext.java:584) ~[?:1.8.0_261]
+	at org.springframework.http.converter.xml.AbstractJaxb2HttpMessageConverter.lambda$getJaxbContext$0(AbstractJaxb2HttpMessageConverter.java:110) ~[spring-web-5.3.9.jar:5.3.9]
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1660) ~[?:1.8.0_261]
+	at org.springframework.http.converter.xml.AbstractJaxb2HttpMessageConverter.getJaxbContext(AbstractJaxb2HttpMessageConverter.java:108) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.http.converter.xml.AbstractJaxb2HttpMessageConverter.createMarshaller(AbstractJaxb2HttpMessageConverter.java:51) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.http.converter.xml.Jaxb2RootElementHttpMessageConverter.writeToResult(Jaxb2RootElementHttpMessageConverter.java:181) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.http.converter.xml.AbstractXmlHttpMessageConverter.writeInternal(AbstractXmlHttpMessageConverter.java:85) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.http.converter.AbstractHttpMessageConverter.write(AbstractHttpMessageConverter.java:227) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:293) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.handleReturnValue(RequestResponseBodyMethodProcessor.java:183) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.method.support.HandlerMethodReturnValueHandlerComposite.handleReturnValue(HandlerMethodReturnValueHandlerComposite.java:78) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:124) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1064) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655) ~[tomcat-embed-core-9.0.52.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764) ~[tomcat-embed-core-9.0.52.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96) ~[spring-boot-actuator-2.5.4.jar:2.5.4]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1726) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_261]
+
+[--INFO --]   2021.09.07   17:24:42.607   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   17:24:42.607   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   17:24:42.609   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   17:24:42.609   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   17:24:42.620   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   17:24:42.621   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 367 ms
+[--INFO --]   2021.09.07   17:24:42.776   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   17:24:42.780   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   17:24:42.791   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   17:24:42.793   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   17:24:42.804   org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener  63  onApplicationEvent  -   Condition evaluation unchanged
+[--INFO --]   2021.09.07   17:24:50.213   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring DispatcherServlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   17:24:50.213   org.springframework.web.servlet.FrameworkServlet  525  initServletBean  -   Initializing Servlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   17:24:50.218   org.springframework.web.servlet.FrameworkServlet  547  initServletBean  -   Completed initialization in 5 ms
+[--INFO --]   2021.09.07   17:24:50.221   com.example.demo2.GreetingController  27  greeting  -   欢迎啊啊啊啊啊======
+[--ERROR--]   2021.09.07   17:24:50.225   org.apache.juli.logging.DirectJDKLog  175  log  -   Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.http.converter.HttpMessageConversionException: Could not create JAXBContext for class [class com.example.demo2.Student]: 2 counts of IllegalAnnotationExceptions; nested exception is com.sun.xml.internal.bind.v2.runtime.IllegalAnnotationsException: 2 counts of IllegalAnnotationExceptions
+类的两个属性具有相同名称 "age"
+	this problem is related to the following location:
+		at public int com.example.demo2.Student.getAge()
+		at com.example.demo2.Student
+	this problem is related to the following location:
+		at private int com.example.demo2.Student.age
+		at com.example.demo2.Student
+类的两个属性具有相同名称 "name"
+	this problem is related to the following location:
+		at public java.lang.String com.example.demo2.Student.getName()
+		at com.example.demo2.Student
+	this problem is related to the following location:
+		at private java.lang.String com.example.demo2.Student.name
+		at com.example.demo2.Student
+] with root cause com.sun.xml.internal.bind.v2.runtime.IllegalAnnotationsException: 2 counts of IllegalAnnotationExceptions
+	at com.sun.xml.internal.bind.v2.runtime.IllegalAnnotationsException$Builder.check(IllegalAnnotationsException.java:91) ~[?:1.8.0_261]
+	at com.sun.xml.internal.bind.v2.runtime.JAXBContextImpl.getTypeInfoSet(JAXBContextImpl.java:445) ~[?:1.8.0_261]
+	at com.sun.xml.internal.bind.v2.runtime.JAXBContextImpl.<init>(JAXBContextImpl.java:277) ~[?:1.8.0_261]
+	at com.sun.xml.internal.bind.v2.runtime.JAXBContextImpl.<init>(JAXBContextImpl.java:124) ~[?:1.8.0_261]
+	at com.sun.xml.internal.bind.v2.runtime.JAXBContextImpl$JAXBContextBuilder.build(JAXBContextImpl.java:1123) ~[?:1.8.0_261]
+	at com.sun.xml.internal.bind.v2.ContextFactory.createContext(ContextFactory.java:147) ~[?:1.8.0_261]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_261]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_261]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_261]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_261]
+	at javax.xml.bind.ContextFinder.newInstance(ContextFinder.java:247) ~[?:1.8.0_261]
+	at javax.xml.bind.ContextFinder.newInstance(ContextFinder.java:234) ~[?:1.8.0_261]
+	at javax.xml.bind.ContextFinder.find(ContextFinder.java:462) ~[?:1.8.0_261]
+	at javax.xml.bind.JAXBContext.newInstance(JAXBContext.java:641) ~[?:1.8.0_261]
+	at javax.xml.bind.JAXBContext.newInstance(JAXBContext.java:584) ~[?:1.8.0_261]
+	at org.springframework.http.converter.xml.AbstractJaxb2HttpMessageConverter.lambda$getJaxbContext$0(AbstractJaxb2HttpMessageConverter.java:110) ~[spring-web-5.3.9.jar:5.3.9]
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1660) ~[?:1.8.0_261]
+	at org.springframework.http.converter.xml.AbstractJaxb2HttpMessageConverter.getJaxbContext(AbstractJaxb2HttpMessageConverter.java:108) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.http.converter.xml.AbstractJaxb2HttpMessageConverter.createMarshaller(AbstractJaxb2HttpMessageConverter.java:51) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.http.converter.xml.Jaxb2RootElementHttpMessageConverter.writeToResult(Jaxb2RootElementHttpMessageConverter.java:181) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.http.converter.xml.AbstractXmlHttpMessageConverter.writeInternal(AbstractXmlHttpMessageConverter.java:85) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.http.converter.AbstractHttpMessageConverter.write(AbstractHttpMessageConverter.java:227) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:293) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.handleReturnValue(RequestResponseBodyMethodProcessor.java:183) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.method.support.HandlerMethodReturnValueHandlerComposite.handleReturnValue(HandlerMethodReturnValueHandlerComposite.java:78) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:124) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1064) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655) ~[tomcat-embed-core-9.0.52.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764) ~[tomcat-embed-core-9.0.52.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96) ~[spring-boot-actuator-2.5.4.jar:2.5.4]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1726) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_261]
+
+[--INFO --]   2021.09.07   17:24:51.302   com.example.demo2.GreetingController  27  greeting  -   欢迎啊啊啊啊啊======
+[--ERROR--]   2021.09.07   17:24:51.307   org.apache.juli.logging.DirectJDKLog  175  log  -   Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.http.converter.HttpMessageConversionException: Could not create JAXBContext for class [class com.example.demo2.Student]: 2 counts of IllegalAnnotationExceptions; nested exception is com.sun.xml.internal.bind.v2.runtime.IllegalAnnotationsException: 2 counts of IllegalAnnotationExceptions
+类的两个属性具有相同名称 "age"
+	this problem is related to the following location:
+		at public int com.example.demo2.Student.getAge()
+		at com.example.demo2.Student
+	this problem is related to the following location:
+		at private int com.example.demo2.Student.age
+		at com.example.demo2.Student
+类的两个属性具有相同名称 "name"
+	this problem is related to the following location:
+		at public java.lang.String com.example.demo2.Student.getName()
+		at com.example.demo2.Student
+	this problem is related to the following location:
+		at private java.lang.String com.example.demo2.Student.name
+		at com.example.demo2.Student
+] with root cause com.sun.xml.internal.bind.v2.runtime.IllegalAnnotationsException: 2 counts of IllegalAnnotationExceptions
+	at com.sun.xml.internal.bind.v2.runtime.IllegalAnnotationsException$Builder.check(IllegalAnnotationsException.java:91) ~[?:1.8.0_261]
+	at com.sun.xml.internal.bind.v2.runtime.JAXBContextImpl.getTypeInfoSet(JAXBContextImpl.java:445) ~[?:1.8.0_261]
+	at com.sun.xml.internal.bind.v2.runtime.JAXBContextImpl.<init>(JAXBContextImpl.java:277) ~[?:1.8.0_261]
+	at com.sun.xml.internal.bind.v2.runtime.JAXBContextImpl.<init>(JAXBContextImpl.java:124) ~[?:1.8.0_261]
+	at com.sun.xml.internal.bind.v2.runtime.JAXBContextImpl$JAXBContextBuilder.build(JAXBContextImpl.java:1123) ~[?:1.8.0_261]
+	at com.sun.xml.internal.bind.v2.ContextFactory.createContext(ContextFactory.java:147) ~[?:1.8.0_261]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_261]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_261]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_261]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_261]
+	at javax.xml.bind.ContextFinder.newInstance(ContextFinder.java:247) ~[?:1.8.0_261]
+	at javax.xml.bind.ContextFinder.newInstance(ContextFinder.java:234) ~[?:1.8.0_261]
+	at javax.xml.bind.ContextFinder.find(ContextFinder.java:462) ~[?:1.8.0_261]
+	at javax.xml.bind.JAXBContext.newInstance(JAXBContext.java:641) ~[?:1.8.0_261]
+	at javax.xml.bind.JAXBContext.newInstance(JAXBContext.java:584) ~[?:1.8.0_261]
+	at org.springframework.http.converter.xml.AbstractJaxb2HttpMessageConverter.lambda$getJaxbContext$0(AbstractJaxb2HttpMessageConverter.java:110) ~[spring-web-5.3.9.jar:5.3.9]
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1660) ~[?:1.8.0_261]
+	at org.springframework.http.converter.xml.AbstractJaxb2HttpMessageConverter.getJaxbContext(AbstractJaxb2HttpMessageConverter.java:108) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.http.converter.xml.AbstractJaxb2HttpMessageConverter.createMarshaller(AbstractJaxb2HttpMessageConverter.java:51) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.http.converter.xml.Jaxb2RootElementHttpMessageConverter.writeToResult(Jaxb2RootElementHttpMessageConverter.java:181) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.http.converter.xml.AbstractXmlHttpMessageConverter.writeInternal(AbstractXmlHttpMessageConverter.java:85) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.http.converter.AbstractHttpMessageConverter.write(AbstractHttpMessageConverter.java:227) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:293) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.handleReturnValue(RequestResponseBodyMethodProcessor.java:183) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.method.support.HandlerMethodReturnValueHandlerComposite.handleReturnValue(HandlerMethodReturnValueHandlerComposite.java:78) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:124) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1064) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655) ~[tomcat-embed-core-9.0.52.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.9.jar:5.3.9]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764) ~[tomcat-embed-core-9.0.52.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96) ~[spring-boot-actuator-2.5.4.jar:2.5.4]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.9.jar:5.3.9]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1726) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.52.jar:9.0.52]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_261]
+
+[--INFO --]   2021.09.07   17:27:56.622   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   17:27:56.623   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   17:27:56.623   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   17:27:56.623   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   17:27:56.636   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   17:27:56.637   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 355 ms
+[--INFO --]   2021.09.07   17:27:56.788   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   17:27:56.791   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   17:27:56.802   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   17:27:56.804   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   17:27:56.815   org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener  63  onApplicationEvent  -   Condition evaluation unchanged
+[--INFO --]   2021.09.07   17:28:01.336   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring DispatcherServlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   17:28:01.336   org.springframework.web.servlet.FrameworkServlet  525  initServletBean  -   Initializing Servlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   17:28:01.338   org.springframework.web.servlet.FrameworkServlet  547  initServletBean  -   Completed initialization in 1 ms
+[--INFO --]   2021.09.07   17:28:01.348   com.example.demo2.GreetingController  27  greeting  -   欢迎啊啊啊啊啊======
+[--INFO --]   2021.09.07   17:51:34.386   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   17:51:34.387   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   17:51:34.387   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   17:51:34.388   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   17:51:34.404   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   17:51:34.404   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 395 ms
+[--INFO --]   2021.09.07   17:51:34.544   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   17:51:34.549   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   17:51:34.567   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   17:51:34.569   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   17:51:34.586   org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener  63  onApplicationEvent  -   Condition evaluation unchanged
+[--INFO --]   2021.09.07   17:51:49.133   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring DispatcherServlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   17:51:49.134   org.springframework.web.servlet.FrameworkServlet  525  initServletBean  -   Initializing Servlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   17:51:49.138   org.springframework.web.servlet.FrameworkServlet  547  initServletBean  -   Completed initialization in 4 ms
+[--INFO --]   2021.09.07   17:51:49.141   com.example.demo2.GreetingController  27  greeting  -   欢迎啊啊啊啊啊======
+[--INFO --]   2021.09.07   17:51:51.161   com.example.demo2.GreetingController  27  greeting  -   欢迎啊啊啊啊啊======
+[--INFO --]   2021.09.07   17:52:11.296   org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin  159  shutdown  -   Application shutdown requested.
+[--INFO --]   2021.09.07   17:52:35.086   org.springframework.boot.logging.DeferredLog  255  logTo  -   Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[--INFO --]   2021.09.07   17:52:35.109   org.springframework.boot.logging.DeferredLog  255  logTo  -   For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[--INFO --]   2021.09.07   17:52:36.871   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  108  initialize  -   Tomcat initialized with port(s): 8080 (http)
+[--INFO --]   2021.09.07   17:52:36.889   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   17:52:36.890   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting service [Tomcat]
+[--INFO --]   2021.09.07   17:52:36.891   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting Servlet engine: [Apache Tomcat/9.0.52]
+[--INFO --]   2021.09.07   17:52:36.976   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring embedded WebApplicationContext
+[--INFO --]   2021.09.07   17:52:36.977   org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  290  prepareWebApplicationContext  -   Root WebApplicationContext: initialization completed in 1867 ms
+[--INFO --]   2021.09.07   17:52:38.013   org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration  86  getOrDeducePassword  -   
+
+Using generated security password: e0f7fb43-2187-45c6-a1b2-0403b6fca52b
+
+[--INFO --]   2021.09.07   17:52:38.158   org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver  58  <init>  -   Exposing 1 endpoint(s) beneath base path '/actuator'
+[--INFO --]   2021.09.07   17:52:38.173   org.springframework.security.web.DefaultSecurityFilterChain  51  <init>  -   Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@41e8df26, org.springframework.security.web.context.SecurityContextPersistenceFilter@2abdc71b, org.springframework.security.web.header.HeaderWriterFilter@2f81b31e, org.springframework.web.filter.CorsFilter@601a510b, org.springframework.security.web.csrf.CsrfFilter@445f66be, org.springframework.security.web.authentication.logout.LogoutFilter@7cd17568, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@17f305ca, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@5dd5bd52, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@167dc456, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@4fd738d6, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@e15d8d1, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@34570770, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3201c2ac, org.springframework.security.web.session.SessionManagementFilter@61f7b66c, org.springframework.security.web.access.ExceptionTranslationFilter@19c61061, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@3d226827]
+[--INFO --]   2021.09.07   17:52:38.256   org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer  58  startServer  -   LiveReload server is running on port 35729
+[--INFO --]   2021.09.07   17:52:38.294   org.apache.juli.logging.DirectJDKLog  173  log  -   Starting ProtocolHandler ["http-nio-8080"]
+[--INFO --]   2021.09.07   17:52:38.323   org.springframework.boot.web.embedded.tomcat.TomcatWebServer  220  start  -   Tomcat started on port(s): 8080 (http) with context path ''
+[--INFO --]   2021.09.07   17:52:51.713   org.apache.juli.logging.DirectJDKLog  173  log  -   Initializing Spring DispatcherServlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   17:52:51.714   org.springframework.web.servlet.FrameworkServlet  525  initServletBean  -   Initializing Servlet 'dispatcherServlet'
+[--INFO --]   2021.09.07   17:52:51.719   org.springframework.web.servlet.FrameworkServlet  547  initServletBean  -   Completed initialization in 4 ms
+[--INFO --]   2021.09.07   17:53:33.983   com.example.demo2.GreetingController  27  greeting  -   欢迎啊啊啊啊啊======
+[--INFO --]   2021.09.07   17:57:38.142   org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin  159  shutdown  -   Application shutdown requested.

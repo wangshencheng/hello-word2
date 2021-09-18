@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+	<Properties>
+		<Property name="LOG_EXCEPTION_CONVERSION_WORD">%xwEx</Property>
+		<Property name="LOG_LEVEL_PATTERN">%5p</Property>
+		<Property name="LOG_DATEFORMAT_PATTERN">yyyy-MM-dd HH:mm:ss.SSS</Property>
+		<Property name="CONSOLE_LOG_PATTERN">%clr{%d{${sys:LOG_DATEFORMAT_PATTERN}}}{faint} %clr{${sys:LOG_LEVEL_PATTERN}} %clr{%pid}{magenta} %clr{---}{faint} %clr{[%15.15t]}{faint} %clr{%-40.40c{1.}}{cyan} %clr{:}{faint} %m%n${sys:LOG_EXCEPTION_CONVERSION_WORD}</Property>
+</Properties>
+	<Appenders>
+		<Console name="Console" target="SYSTEM_OUT" follow="true">
+			<PatternLayout pattern="${sys:CONSOLE_LOG_PATTERN}" charset="${sys:CONSOLE_LOG_CHARSET}"/>
+		</Console>
+	<!-- 	<File name="File" fileName="my3.log">
+      <Layout type="PatternLayout">
+        <Pattern> <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] [%level] %logger{36} - %msg%n"/></Pattern>
+      </Layout>
+    </File> -->
+    <RollingFile name="File" fileName="info.log" append="true"
+                     filePattern="info.log.%d{yyyy-MM-dd}">
+  <PatternLayout
+      pattern="[--%-5level--]   %d{yyyy.MM.dd   HH:mm:ss.SSS}   %class{36}  %L  %M  -   %msg%xEx%n"/>
+  <ThresholdFilter level="info" onMatch="ACCEPT" onMismatch="DENY"/>
+  <Policies>
+    <TimeBasedTriggeringPolicy  interval="1"/>
+  </Policies>
+</RollingFile>
+	</Appenders>
+	<Loggers>
+		<Logger name="com.example.demo2.Demo2Application" level="warn" />
+		<Logger name="com.example.demo2.StudentMapper" level="debug"  ref="Console"/>
+		<Root level="info">
+			<AppenderRef ref="File" />
+			<AppenderRef ref="Console"  />
+		</Root>
+	</Loggers>
+</Configuration>

@@ -1,0 +1,9 @@
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.52]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 4025 ms
+Exposing 1 endpoint(s) beneath base path '/actuator'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''

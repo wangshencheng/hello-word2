@@ -1,0 +1,13 @@
+com\example\demo2\StudentMapper.class
+com\example\demo2\GreetingController.class
+com\example\demo2\MyCommandLineRunner.class
+com\example\demo2\MyConfiguration.class
+com\example\demo2\UserDetailsServiceImpl.class
+com\example\demo2\Student.class
+com\example\demo2\MyDataSourceConfiguration.class
+com\example\demo2\Demo2Application.class
+com\example\demo2\Greeting.class
+com\example\demo2\ThirdPartConfiguration.class
+com\example\demo2\MyProperties.class
+com\example\demo2\WebSecurity.class
+com\example\demo2\WebSecurityConfig.class
